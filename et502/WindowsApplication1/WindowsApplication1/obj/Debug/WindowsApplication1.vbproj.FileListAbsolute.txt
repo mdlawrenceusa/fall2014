@@ -1,0 +1,10 @@
+G:\fall2014\et502\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+G:\fall2014\et502\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+G:\fall2014\et502\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+G:\fall2014\et502\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+G:\fall2014\et502\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+G:\fall2014\et502\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+G:\fall2014\et502\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+G:\fall2014\et502\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+G:\fall2014\et502\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+G:\fall2014\et502\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
