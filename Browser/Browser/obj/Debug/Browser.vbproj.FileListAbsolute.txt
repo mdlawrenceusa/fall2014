@@ -1,0 +1,10 @@
+G:\fall2014\Browser\Browser\bin\Debug\Browser.exe.config
+G:\fall2014\Browser\Browser\bin\Debug\Browser.exe
+G:\fall2014\Browser\Browser\bin\Debug\Browser.pdb
+G:\fall2014\Browser\Browser\bin\Debug\Browser.xml
+G:\fall2014\Browser\Browser\obj\Debug\Browser.Form1.resources
+G:\fall2014\Browser\Browser\obj\Debug\Browser.Resources.resources
+G:\fall2014\Browser\Browser\obj\Debug\Browser.vbproj.GenerateResource.Cache
+G:\fall2014\Browser\Browser\obj\Debug\Browser.exe
+G:\fall2014\Browser\Browser\obj\Debug\Browser.xml
+G:\fall2014\Browser\Browser\obj\Debug\Browser.pdb

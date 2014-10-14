@@ -1,0 +1,10 @@
+G:\fall2014\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+G:\fall2014\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+G:\fall2014\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+G:\fall2014\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+G:\fall2014\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+G:\fall2014\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+G:\fall2014\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+G:\fall2014\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+G:\fall2014\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+G:\fall2014\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
